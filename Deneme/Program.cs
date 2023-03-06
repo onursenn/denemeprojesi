@@ -11,6 +11,7 @@ namespace Deneme
         static void Main(string[] args)
         {
             Console.WriteLine("Deneme");
+            Console.WriteLine("Mastera Ekleme Yapıldı ");
 
         }
     }
