@@ -1,0 +1,8 @@
+D:\Users\Onur\source\repos\Deneme\Deneme\bin\Debug\Deneme.exe.config
+D:\Users\Onur\source\repos\Deneme\Deneme\bin\Debug\Deneme.exe
+D:\Users\Onur\source\repos\Deneme\Deneme\bin\Debug\Deneme.pdb
+D:\Users\Onur\source\repos\Deneme\Deneme\obj\Debug\Deneme.csproj.AssemblyReference.cache
+D:\Users\Onur\source\repos\Deneme\Deneme\obj\Debug\Deneme.csproj.SuggestedBindingRedirects.cache
+D:\Users\Onur\source\repos\Deneme\Deneme\obj\Debug\Deneme.csproj.CoreCompileInputs.cache
+D:\Users\Onur\source\repos\Deneme\Deneme\obj\Debug\Deneme.exe
+D:\Users\Onur\source\repos\Deneme\Deneme\obj\Debug\Deneme.pdb
