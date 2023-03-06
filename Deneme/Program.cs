@@ -12,7 +12,7 @@ namespace Deneme
         {
             Console.WriteLine("Deneme");
             Console.WriteLine("Mastera Ekleme Yapıldı ");
-
+            Console.WriteLine("deneme deneme Ekleme Yapıldı ");
         }
     }
 }
